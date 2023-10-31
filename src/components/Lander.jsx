@@ -64,7 +64,7 @@ const Lander = () => {
       </p>
       <br />
       <br />
-      <a href="https://example.com" target="_blank">
+      <a href="https://drive.google.com/file/d/1mKwCZRU6oRN0GECyBdwHNM0nCmddnwXf/view?usp=drive_link" target="_blank">
         <button_1 className="button_1">
           <span>Resume</span>
         </button_1>
